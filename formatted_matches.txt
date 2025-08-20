@@ -1,0 +1,1444 @@
+Home Team: BSC Young Boys
+Away Team: Aston Villa FC
+Home Goals: 0
+Away Goals: 3
+Away Wins
+Status: FINISHED
+Match Date: 2024-09-17T16:45:00Z
+
+Home Team: Juventus FC
+Away Team: PSV
+Home Goals: 3
+Away Goals: 1
+Home Wins
+Status: FINISHED
+Match Date: 2024-09-17T16:45:00Z
+
+Home Team: Sporting Clube de Portugal
+Away Team: Lille OSC
+Home Goals: 2
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2024-09-17T19:00:00Z
+
+Home Team: FC Bayern München
+Away Team: GNK Dinamo Zagreb
+Home Goals: 9
+Away Goals: 2
+Home Wins
+Status: FINISHED
+Match Date: 2024-09-17T19:00:00Z
+
+Home Team: Real Madrid CF
+Away Team: VfB Stuttgart
+Home Goals: 3
+Away Goals: 1
+Home Wins
+Status: FINISHED
+Match Date: 2024-09-17T19:00:00Z
+
+Home Team: AC Milan
+Away Team: Liverpool FC
+Home Goals: 1
+Away Goals: 3
+Away Wins
+Status: FINISHED
+Match Date: 2024-09-17T19:00:00Z
+
+Home Team: Bologna FC 1909
+Away Team: FK Shakhtar Donetsk
+Home Goals: 0
+Away Goals: 0
+Draw
+Status: FINISHED
+Match Date: 2024-09-18T16:45:00Z
+
+Home Team: AC Sparta Praha
+Away Team: FC Red Bull Salzburg
+Home Goals: 3
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2024-09-18T16:45:00Z
+
+Home Team: Manchester City FC
+Away Team: FC Internazionale Milano
+Home Goals: 0
+Away Goals: 0
+Draw
+Status: FINISHED
+Match Date: 2024-09-18T19:00:00Z
+
+Home Team: Paris Saint-Germain FC
+Away Team: Girona FC
+Home Goals: 1
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2024-09-18T19:00:00Z
+
+Home Team: Club Brugge KV
+Away Team: Borussia Dortmund
+Home Goals: 0
+Away Goals: 3
+Away Wins
+Status: FINISHED
+Match Date: 2024-09-18T19:00:00Z
+
+Home Team: Celtic FC
+Away Team: ŠK Slovan Bratislava
+Home Goals: 5
+Away Goals: 1
+Home Wins
+Status: FINISHED
+Match Date: 2024-09-18T19:00:00Z
+
+Home Team: Feyenoord Rotterdam
+Away Team: Bayer 04 Leverkusen
+Home Goals: 0
+Away Goals: 4
+Away Wins
+Status: FINISHED
+Match Date: 2024-09-19T16:45:00Z
+
+Home Team: FK Crvena Zvezda
+Away Team: Sport Lisboa e Benfica
+Home Goals: 1
+Away Goals: 2
+Away Wins
+Status: FINISHED
+Match Date: 2024-09-19T16:45:00Z
+
+Home Team: AS Monaco FC
+Away Team: FC Barcelona
+Home Goals: 2
+Away Goals: 1
+Home Wins
+Status: FINISHED
+Match Date: 2024-09-19T19:00:00Z
+
+Home Team: Stade Brestois 29
+Away Team: SK Sturm Graz
+Home Goals: 2
+Away Goals: 1
+Home Wins
+Status: FINISHED
+Match Date: 2024-09-19T19:00:00Z
+
+Home Team: Atalanta BC
+Away Team: Arsenal FC
+Home Goals: 0
+Away Goals: 0
+Draw
+Status: FINISHED
+Match Date: 2024-09-19T19:00:00Z
+
+Home Team: Club Atlético de Madrid
+Away Team: RB Leipzig
+Home Goals: 2
+Away Goals: 1
+Home Wins
+Status: FINISHED
+Match Date: 2024-09-19T19:00:00Z
+
+Home Team: VfB Stuttgart
+Away Team: AC Sparta Praha
+Home Goals: 1
+Away Goals: 1
+Draw
+Status: FINISHED
+Match Date: 2024-10-01T16:45:00Z
+
+Home Team: FC Red Bull Salzburg
+Away Team: Stade Brestois 29
+Home Goals: 0
+Away Goals: 4
+Away Wins
+Status: FINISHED
+Match Date: 2024-10-01T16:45:00Z
+
+Home Team: ŠK Slovan Bratislava
+Away Team: Manchester City FC
+Home Goals: 0
+Away Goals: 4
+Away Wins
+Status: FINISHED
+Match Date: 2024-10-01T19:00:00Z
+
+Home Team: Borussia Dortmund
+Away Team: Celtic FC
+Home Goals: 7
+Away Goals: 1
+Home Wins
+Status: FINISHED
+Match Date: 2024-10-01T19:00:00Z
+
+Home Team: FC Barcelona
+Away Team: BSC Young Boys
+Home Goals: 5
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2024-10-01T19:00:00Z
+
+Home Team: FC Internazionale Milano
+Away Team: FK Crvena Zvezda
+Home Goals: 4
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2024-10-01T19:00:00Z
+
+Home Team: Bayer 04 Leverkusen
+Away Team: AC Milan
+Home Goals: 1
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2024-10-01T19:00:00Z
+
+Home Team: Arsenal FC
+Away Team: Paris Saint-Germain FC
+Home Goals: 2
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2024-10-01T19:00:00Z
+
+Home Team: PSV
+Away Team: Sporting Clube de Portugal
+Home Goals: 1
+Away Goals: 1
+Draw
+Status: FINISHED
+Match Date: 2024-10-01T19:00:00Z
+
+Home Team: Girona FC
+Away Team: Feyenoord Rotterdam
+Home Goals: 2
+Away Goals: 3
+Away Wins
+Status: FINISHED
+Match Date: 2024-10-02T16:45:00Z
+
+Home Team: FK Shakhtar Donetsk
+Away Team: Atalanta BC
+Home Goals: 0
+Away Goals: 3
+Away Wins
+Status: FINISHED
+Match Date: 2024-10-02T16:45:00Z
+
+Home Team: Aston Villa FC
+Away Team: FC Bayern München
+Home Goals: 1
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2024-10-02T19:00:00Z
+
+Home Team: SK Sturm Graz
+Away Team: Club Brugge KV
+Home Goals: 0
+Away Goals: 1
+Away Wins
+Status: FINISHED
+Match Date: 2024-10-02T19:00:00Z
+
+Home Team: Liverpool FC
+Away Team: Bologna FC 1909
+Home Goals: 2
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2024-10-02T19:00:00Z
+
+Home Team: RB Leipzig
+Away Team: Juventus FC
+Home Goals: 2
+Away Goals: 3
+Away Wins
+Status: FINISHED
+Match Date: 2024-10-02T19:00:00Z
+
+Home Team: Sport Lisboa e Benfica
+Away Team: Club Atlético de Madrid
+Home Goals: 4
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2024-10-02T19:00:00Z
+
+Home Team: GNK Dinamo Zagreb
+Away Team: AS Monaco FC
+Home Goals: 2
+Away Goals: 2
+Draw
+Status: FINISHED
+Match Date: 2024-10-02T19:00:00Z
+
+Home Team: Lille OSC
+Away Team: Real Madrid CF
+Home Goals: 1
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2024-10-02T19:00:00Z
+
+Home Team: AS Monaco FC
+Away Team: FK Crvena Zvezda
+Home Goals: 5
+Away Goals: 1
+Home Wins
+Status: FINISHED
+Match Date: 2024-10-22T16:45:00Z
+
+Home Team: AC Milan
+Away Team: Club Brugge KV
+Home Goals: 3
+Away Goals: 1
+Home Wins
+Status: FINISHED
+Match Date: 2024-10-22T16:45:00Z
+
+Home Team: Aston Villa FC
+Away Team: Bologna FC 1909
+Home Goals: 2
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2024-10-22T19:00:00Z
+
+Home Team: Girona FC
+Away Team: ŠK Slovan Bratislava
+Home Goals: 2
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2024-10-22T19:00:00Z
+
+Home Team: SK Sturm Graz
+Away Team: Sporting Clube de Portugal
+Home Goals: 0
+Away Goals: 2
+Away Wins
+Status: FINISHED
+Match Date: 2024-10-22T19:00:00Z
+
+Home Team: Paris Saint-Germain FC
+Away Team: PSV
+Home Goals: 1
+Away Goals: 1
+Draw
+Status: FINISHED
+Match Date: 2024-10-22T19:00:00Z
+
+Home Team: Real Madrid CF
+Away Team: Borussia Dortmund
+Home Goals: 5
+Away Goals: 2
+Home Wins
+Status: FINISHED
+Match Date: 2024-10-22T19:00:00Z
+
+Home Team: Arsenal FC
+Away Team: FK Shakhtar Donetsk
+Home Goals: 1
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2024-10-22T19:00:00Z
+
+Home Team: Juventus FC
+Away Team: VfB Stuttgart
+Home Goals: 0
+Away Goals: 1
+Away Wins
+Status: FINISHED
+Match Date: 2024-10-22T19:00:00Z
+
+Home Team: Stade Brestois 29
+Away Team: Bayer 04 Leverkusen
+Home Goals: 1
+Away Goals: 1
+Draw
+Status: FINISHED
+Match Date: 2024-10-23T16:45:00Z
+
+Home Team: Atalanta BC
+Away Team: Celtic FC
+Home Goals: 0
+Away Goals: 0
+Draw
+Status: FINISHED
+Match Date: 2024-10-23T16:45:00Z
+
+Home Team: BSC Young Boys
+Away Team: FC Internazionale Milano
+Home Goals: 0
+Away Goals: 1
+Away Wins
+Status: FINISHED
+Match Date: 2024-10-23T19:00:00Z
+
+Home Team: FC Barcelona
+Away Team: FC Bayern München
+Home Goals: 4
+Away Goals: 1
+Home Wins
+Status: FINISHED
+Match Date: 2024-10-23T19:00:00Z
+
+Home Team: Manchester City FC
+Away Team: AC Sparta Praha
+Home Goals: 5
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2024-10-23T19:00:00Z
+
+Home Team: RB Leipzig
+Away Team: Liverpool FC
+Home Goals: 0
+Away Goals: 1
+Away Wins
+Status: FINISHED
+Match Date: 2024-10-23T19:00:00Z
+
+Home Team: Club Atlético de Madrid
+Away Team: Lille OSC
+Home Goals: 1
+Away Goals: 3
+Away Wins
+Status: FINISHED
+Match Date: 2024-10-23T19:00:00Z
+
+Home Team: Sport Lisboa e Benfica
+Away Team: Feyenoord Rotterdam
+Home Goals: 1
+Away Goals: 3
+Away Wins
+Status: FINISHED
+Match Date: 2024-10-23T19:00:00Z
+
+Home Team: FC Red Bull Salzburg
+Away Team: GNK Dinamo Zagreb
+Home Goals: 0
+Away Goals: 2
+Away Wins
+Status: FINISHED
+Match Date: 2024-10-23T19:00:00Z
+
+Home Team: ŠK Slovan Bratislava
+Away Team: GNK Dinamo Zagreb
+Home Goals: 1
+Away Goals: 4
+Away Wins
+Status: FINISHED
+Match Date: 2024-11-05T17:45:00Z
+
+Home Team: PSV
+Away Team: Girona FC
+Home Goals: 4
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2024-11-05T17:45:00Z
+
+Home Team: Sporting Clube de Portugal
+Away Team: Manchester City FC
+Home Goals: 4
+Away Goals: 1
+Home Wins
+Status: FINISHED
+Match Date: 2024-11-05T20:00:00Z
+
+Home Team: Bologna FC 1909
+Away Team: AS Monaco FC
+Home Goals: 0
+Away Goals: 1
+Away Wins
+Status: FINISHED
+Match Date: 2024-11-05T20:00:00Z
+
+Home Team: Borussia Dortmund
+Away Team: SK Sturm Graz
+Home Goals: 1
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2024-11-05T20:00:00Z
+
+Home Team: Liverpool FC
+Away Team: Bayer 04 Leverkusen
+Home Goals: 4
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2024-11-05T20:00:00Z
+
+Home Team: Real Madrid CF
+Away Team: AC Milan
+Home Goals: 1
+Away Goals: 3
+Away Wins
+Status: FINISHED
+Match Date: 2024-11-05T20:00:00Z
+
+Home Team: Celtic FC
+Away Team: RB Leipzig
+Home Goals: 3
+Away Goals: 1
+Home Wins
+Status: FINISHED
+Match Date: 2024-11-05T20:00:00Z
+
+Home Team: Lille OSC
+Away Team: Juventus FC
+Home Goals: 1
+Away Goals: 1
+Draw
+Status: FINISHED
+Match Date: 2024-11-05T20:00:00Z
+
+Home Team: Club Brugge KV
+Away Team: Aston Villa FC
+Home Goals: 1
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2024-11-06T17:45:00Z
+
+Home Team: FK Shakhtar Donetsk
+Away Team: BSC Young Boys
+Home Goals: 2
+Away Goals: 1
+Home Wins
+Status: FINISHED
+Match Date: 2024-11-06T17:45:00Z
+
+Home Team: AC Sparta Praha
+Away Team: Stade Brestois 29
+Home Goals: 1
+Away Goals: 2
+Away Wins
+Status: FINISHED
+Match Date: 2024-11-06T20:00:00Z
+
+Home Team: VfB Stuttgart
+Away Team: Atalanta BC
+Home Goals: 0
+Away Goals: 2
+Away Wins
+Status: FINISHED
+Match Date: 2024-11-06T20:00:00Z
+
+Home Team: FC Internazionale Milano
+Away Team: Arsenal FC
+Home Goals: 1
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2024-11-06T20:00:00Z
+
+Home Team: Paris Saint-Germain FC
+Away Team: Club Atlético de Madrid
+Home Goals: 1
+Away Goals: 2
+Away Wins
+Status: FINISHED
+Match Date: 2024-11-06T20:00:00Z
+
+Home Team: Feyenoord Rotterdam
+Away Team: FC Red Bull Salzburg
+Home Goals: 1
+Away Goals: 3
+Away Wins
+Status: FINISHED
+Match Date: 2024-11-06T20:00:00Z
+
+Home Team: FK Crvena Zvezda
+Away Team: FC Barcelona
+Home Goals: 2
+Away Goals: 5
+Away Wins
+Status: FINISHED
+Match Date: 2024-11-06T20:00:00Z
+
+Home Team: FC Bayern München
+Away Team: Sport Lisboa e Benfica
+Home Goals: 1
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2024-11-06T20:15:00Z
+
+Home Team: ŠK Slovan Bratislava
+Away Team: AC Milan
+Home Goals: 2
+Away Goals: 3
+Away Wins
+Status: FINISHED
+Match Date: 2024-11-26T17:45:00Z
+
+Home Team: AC Sparta Praha
+Away Team: Club Atlético de Madrid
+Home Goals: 0
+Away Goals: 6
+Away Wins
+Status: FINISHED
+Match Date: 2024-11-26T17:45:00Z
+
+Home Team: Sporting Clube de Portugal
+Away Team: Arsenal FC
+Home Goals: 1
+Away Goals: 5
+Away Wins
+Status: FINISHED
+Match Date: 2024-11-26T20:00:00Z
+
+Home Team: BSC Young Boys
+Away Team: Atalanta BC
+Home Goals: 1
+Away Goals: 6
+Away Wins
+Status: FINISHED
+Match Date: 2024-11-26T20:00:00Z
+
+Home Team: FC Bayern München
+Away Team: Paris Saint-Germain FC
+Home Goals: 1
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2024-11-26T20:00:00Z
+
+Home Team: FC Barcelona
+Away Team: Stade Brestois 29
+Home Goals: 3
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2024-11-26T20:00:00Z
+
+Home Team: FC Internazionale Milano
+Away Team: RB Leipzig
+Home Goals: 1
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2024-11-26T20:00:00Z
+
+Home Team: Manchester City FC
+Away Team: Feyenoord Rotterdam
+Home Goals: 3
+Away Goals: 3
+Draw
+Status: FINISHED
+Match Date: 2024-11-26T20:00:00Z
+
+Home Team: Bayer 04 Leverkusen
+Away Team: FC Red Bull Salzburg
+Home Goals: 5
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2024-11-26T20:00:00Z
+
+Home Team: SK Sturm Graz
+Away Team: Girona FC
+Home Goals: 1
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2024-11-27T17:45:00Z
+
+Home Team: FK Crvena Zvezda
+Away Team: VfB Stuttgart
+Home Goals: 5
+Away Goals: 1
+Home Wins
+Status: FINISHED
+Match Date: 2024-11-27T17:45:00Z
+
+Home Team: AS Monaco FC
+Away Team: Sport Lisboa e Benfica
+Home Goals: 2
+Away Goals: 3
+Away Wins
+Status: FINISHED
+Match Date: 2024-11-27T20:00:00Z
+
+Home Team: Aston Villa FC
+Away Team: Juventus FC
+Home Goals: 0
+Away Goals: 0
+Draw
+Status: FINISHED
+Match Date: 2024-11-27T20:00:00Z
+
+Home Team: Bologna FC 1909
+Away Team: Lille OSC
+Home Goals: 1
+Away Goals: 2
+Away Wins
+Status: FINISHED
+Match Date: 2024-11-27T20:00:00Z
+
+Home Team: Liverpool FC
+Away Team: Real Madrid CF
+Home Goals: 2
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2024-11-27T20:00:00Z
+
+Home Team: Celtic FC
+Away Team: Club Brugge KV
+Home Goals: 1
+Away Goals: 1
+Draw
+Status: FINISHED
+Match Date: 2024-11-27T20:00:00Z
+
+Home Team: GNK Dinamo Zagreb
+Away Team: Borussia Dortmund
+Home Goals: 0
+Away Goals: 3
+Away Wins
+Status: FINISHED
+Match Date: 2024-11-27T20:00:00Z
+
+Home Team: PSV
+Away Team: FK Shakhtar Donetsk
+Home Goals: 3
+Away Goals: 2
+Home Wins
+Status: FINISHED
+Match Date: 2024-11-27T20:00:00Z
+
+Home Team: Girona FC
+Away Team: Liverpool FC
+Home Goals: 0
+Away Goals: 1
+Away Wins
+Status: FINISHED
+Match Date: 2024-12-10T17:45:00Z
+
+Home Team: GNK Dinamo Zagreb
+Away Team: Celtic FC
+Home Goals: 0
+Away Goals: 0
+Draw
+Status: FINISHED
+Match Date: 2024-12-10T17:45:00Z
+
+Home Team: Stade Brestois 29
+Away Team: PSV
+Home Goals: 1
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2024-12-10T20:00:00Z
+
+Home Team: RB Leipzig
+Away Team: Aston Villa FC
+Home Goals: 2
+Away Goals: 3
+Away Wins
+Status: FINISHED
+Match Date: 2024-12-10T20:00:00Z
+
+Home Team: Atalanta BC
+Away Team: Real Madrid CF
+Home Goals: 2
+Away Goals: 3
+Away Wins
+Status: FINISHED
+Match Date: 2024-12-10T20:00:00Z
+
+Home Team: Bayer 04 Leverkusen
+Away Team: FC Internazionale Milano
+Home Goals: 1
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2024-12-10T20:00:00Z
+
+Home Team: Club Brugge KV
+Away Team: Sporting Clube de Portugal
+Home Goals: 2
+Away Goals: 1
+Home Wins
+Status: FINISHED
+Match Date: 2024-12-10T20:00:00Z
+
+Home Team: FK Shakhtar Donetsk
+Away Team: FC Bayern München
+Home Goals: 1
+Away Goals: 5
+Away Wins
+Status: FINISHED
+Match Date: 2024-12-10T20:00:00Z
+
+Home Team: FC Red Bull Salzburg
+Away Team: Paris Saint-Germain FC
+Home Goals: 0
+Away Goals: 3
+Away Wins
+Status: FINISHED
+Match Date: 2024-12-10T20:00:00Z
+
+Home Team: Club Atlético de Madrid
+Away Team: ŠK Slovan Bratislava
+Home Goals: 3
+Away Goals: 1
+Home Wins
+Status: FINISHED
+Match Date: 2024-12-11T17:45:00Z
+
+Home Team: Lille OSC
+Away Team: SK Sturm Graz
+Home Goals: 3
+Away Goals: 2
+Home Wins
+Status: FINISHED
+Match Date: 2024-12-11T17:45:00Z
+
+Home Team: VfB Stuttgart
+Away Team: BSC Young Boys
+Home Goals: 5
+Away Goals: 1
+Home Wins
+Status: FINISHED
+Match Date: 2024-12-11T20:00:00Z
+
+Home Team: Borussia Dortmund
+Away Team: FC Barcelona
+Home Goals: 2
+Away Goals: 3
+Away Wins
+Status: FINISHED
+Match Date: 2024-12-11T20:00:00Z
+
+Home Team: AC Milan
+Away Team: FK Crvena Zvezda
+Home Goals: 2
+Away Goals: 1
+Home Wins
+Status: FINISHED
+Match Date: 2024-12-11T20:00:00Z
+
+Home Team: Sport Lisboa e Benfica
+Away Team: Bologna FC 1909
+Home Goals: 0
+Away Goals: 0
+Draw
+Status: FINISHED
+Match Date: 2024-12-11T20:00:00Z
+
+Home Team: Arsenal FC
+Away Team: AS Monaco FC
+Home Goals: 3
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2024-12-11T20:00:00Z
+
+Home Team: Juventus FC
+Away Team: Manchester City FC
+Home Goals: 2
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2024-12-11T20:00:00Z
+
+Home Team: Feyenoord Rotterdam
+Away Team: AC Sparta Praha
+Home Goals: 4
+Away Goals: 2
+Home Wins
+Status: FINISHED
+Match Date: 2024-12-11T20:00:00Z
+
+Home Team: AS Monaco FC
+Away Team: Aston Villa FC
+Home Goals: 1
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2025-01-21T17:45:00Z
+
+Home Team: Atalanta BC
+Away Team: SK Sturm Graz
+Home Goals: 5
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2025-01-21T17:45:00Z
+
+Home Team: Bologna FC 1909
+Away Team: Borussia Dortmund
+Home Goals: 2
+Away Goals: 1
+Home Wins
+Status: FINISHED
+Match Date: 2025-01-21T20:00:00Z
+
+Home Team: ŠK Slovan Bratislava
+Away Team: VfB Stuttgart
+Home Goals: 1
+Away Goals: 3
+Away Wins
+Status: FINISHED
+Match Date: 2025-01-21T20:00:00Z
+
+Home Team: Liverpool FC
+Away Team: Lille OSC
+Home Goals: 2
+Away Goals: 1
+Home Wins
+Status: FINISHED
+Match Date: 2025-01-21T20:00:00Z
+
+Home Team: Club Atlético de Madrid
+Away Team: Bayer 04 Leverkusen
+Home Goals: 2
+Away Goals: 1
+Home Wins
+Status: FINISHED
+Match Date: 2025-01-21T20:00:00Z
+
+Home Team: Sport Lisboa e Benfica
+Away Team: FC Barcelona
+Home Goals: 4
+Away Goals: 5
+Away Wins
+Status: FINISHED
+Match Date: 2025-01-21T20:00:00Z
+
+Home Team: Club Brugge KV
+Away Team: Juventus FC
+Home Goals: 0
+Away Goals: 0
+Draw
+Status: FINISHED
+Match Date: 2025-01-21T20:00:00Z
+
+Home Team: FK Crvena Zvezda
+Away Team: PSV
+Home Goals: 2
+Away Goals: 3
+Away Wins
+Status: FINISHED
+Match Date: 2025-01-21T20:00:00Z
+
+Home Team: RB Leipzig
+Away Team: Sporting Clube de Portugal
+Home Goals: 2
+Away Goals: 1
+Home Wins
+Status: FINISHED
+Match Date: 2025-01-22T17:45:00Z
+
+Home Team: FK Shakhtar Donetsk
+Away Team: Stade Brestois 29
+Home Goals: 2
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2025-01-22T17:45:00Z
+
+Home Team: AC Sparta Praha
+Away Team: FC Internazionale Milano
+Home Goals: 0
+Away Goals: 1
+Away Wins
+Status: FINISHED
+Match Date: 2025-01-22T20:00:00Z
+
+Home Team: Paris Saint-Germain FC
+Away Team: Manchester City FC
+Home Goals: 4
+Away Goals: 2
+Home Wins
+Status: FINISHED
+Match Date: 2025-01-22T20:00:00Z
+
+Home Team: Real Madrid CF
+Away Team: FC Red Bull Salzburg
+Home Goals: 5
+Away Goals: 1
+Home Wins
+Status: FINISHED
+Match Date: 2025-01-22T20:00:00Z
+
+Home Team: AC Milan
+Away Team: Girona FC
+Home Goals: 1
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2025-01-22T20:00:00Z
+
+Home Team: Arsenal FC
+Away Team: GNK Dinamo Zagreb
+Home Goals: 3
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2025-01-22T20:00:00Z
+
+Home Team: Celtic FC
+Away Team: BSC Young Boys
+Home Goals: 1
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2025-01-22T20:00:00Z
+
+Home Team: Feyenoord Rotterdam
+Away Team: FC Bayern München
+Home Goals: 3
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2025-01-22T20:00:00Z
+
+Home Team: Sporting Clube de Portugal
+Away Team: Bologna FC 1909
+Home Goals: 1
+Away Goals: 1
+Draw
+Status: FINISHED
+Match Date: 2025-01-29T20:00:00Z
+
+Home Team: BSC Young Boys
+Away Team: FK Crvena Zvezda
+Home Goals: 0
+Away Goals: 1
+Away Wins
+Status: FINISHED
+Match Date: 2025-01-29T20:00:00Z
+
+Home Team: Aston Villa FC
+Away Team: Celtic FC
+Home Goals: 4
+Away Goals: 2
+Home Wins
+Status: FINISHED
+Match Date: 2025-01-29T20:00:00Z
+
+Home Team: Girona FC
+Away Team: Arsenal FC
+Home Goals: 1
+Away Goals: 2
+Away Wins
+Status: FINISHED
+Match Date: 2025-01-29T20:00:00Z
+
+Home Team: Stade Brestois 29
+Away Team: Real Madrid CF
+Home Goals: 0
+Away Goals: 3
+Away Wins
+Status: FINISHED
+Match Date: 2025-01-29T20:00:00Z
+
+Home Team: SK Sturm Graz
+Away Team: RB Leipzig
+Home Goals: 1
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2025-01-29T20:00:00Z
+
+Home Team: VfB Stuttgart
+Away Team: Paris Saint-Germain FC
+Home Goals: 1
+Away Goals: 4
+Away Wins
+Status: FINISHED
+Match Date: 2025-01-29T20:00:00Z
+
+Home Team: FC Bayern München
+Away Team: ŠK Slovan Bratislava
+Home Goals: 3
+Away Goals: 1
+Home Wins
+Status: FINISHED
+Match Date: 2025-01-29T20:00:00Z
+
+Home Team: Borussia Dortmund
+Away Team: FK Shakhtar Donetsk
+Home Goals: 3
+Away Goals: 1
+Home Wins
+Status: FINISHED
+Match Date: 2025-01-29T20:00:00Z
+
+Home Team: FC Barcelona
+Away Team: Atalanta BC
+Home Goals: 2
+Away Goals: 2
+Draw
+Status: FINISHED
+Match Date: 2025-01-29T20:00:00Z
+
+Home Team: FC Internazionale Milano
+Away Team: AS Monaco FC
+Home Goals: 3
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2025-01-29T20:00:00Z
+
+Home Team: Manchester City FC
+Away Team: Club Brugge KV
+Home Goals: 3
+Away Goals: 1
+Home Wins
+Status: FINISHED
+Match Date: 2025-01-29T20:00:00Z
+
+Home Team: Bayer 04 Leverkusen
+Away Team: AC Sparta Praha
+Home Goals: 2
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2025-01-29T20:00:00Z
+
+Home Team: Juventus FC
+Away Team: Sport Lisboa e Benfica
+Home Goals: 0
+Away Goals: 2
+Away Wins
+Status: FINISHED
+Match Date: 2025-01-29T20:00:00Z
+
+Home Team: GNK Dinamo Zagreb
+Away Team: AC Milan
+Home Goals: 2
+Away Goals: 1
+Home Wins
+Status: FINISHED
+Match Date: 2025-01-29T20:00:00Z
+
+Home Team: Lille OSC
+Away Team: Feyenoord Rotterdam
+Home Goals: 6
+Away Goals: 1
+Home Wins
+Status: FINISHED
+Match Date: 2025-01-29T20:00:00Z
+
+Home Team: PSV
+Away Team: Liverpool FC
+Home Goals: 3
+Away Goals: 2
+Home Wins
+Status: FINISHED
+Match Date: 2025-01-29T20:00:00Z
+
+Home Team: FC Red Bull Salzburg
+Away Team: Club Atlético de Madrid
+Home Goals: 1
+Away Goals: 4
+Away Wins
+Status: FINISHED
+Match Date: 2025-01-29T20:00:00Z
+
+Home Team: Stade Brestois 29
+Away Team: Paris Saint-Germain FC
+Home Goals: 0
+Away Goals: 3
+Away Wins
+Status: FINISHED
+Match Date: 2025-02-11T17:45:00Z
+
+Home Team: Manchester City FC
+Away Team: Real Madrid CF
+Home Goals: 2
+Away Goals: 3
+Away Wins
+Status: FINISHED
+Match Date: 2025-02-11T20:00:00Z
+
+Home Team: Juventus FC
+Away Team: PSV
+Home Goals: 2
+Away Goals: 1
+Home Wins
+Status: FINISHED
+Match Date: 2025-02-11T20:00:00Z
+
+Home Team: Sporting Clube de Portugal
+Away Team: Borussia Dortmund
+Home Goals: 0
+Away Goals: 3
+Away Wins
+Status: FINISHED
+Match Date: 2025-02-11T20:00:00Z
+
+Home Team: Club Brugge KV
+Away Team: Atalanta BC
+Home Goals: 2
+Away Goals: 1
+Home Wins
+Status: FINISHED
+Match Date: 2025-02-12T17:45:00Z
+
+Home Team: AS Monaco FC
+Away Team: Sport Lisboa e Benfica
+Home Goals: 0
+Away Goals: 1
+Away Wins
+Status: FINISHED
+Match Date: 2025-02-12T20:00:00Z
+
+Home Team: Celtic FC
+Away Team: FC Bayern München
+Home Goals: 1
+Away Goals: 2
+Away Wins
+Status: FINISHED
+Match Date: 2025-02-12T20:00:00Z
+
+Home Team: Feyenoord Rotterdam
+Away Team: AC Milan
+Home Goals: 1
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2025-02-12T20:00:00Z
+
+Home Team: AC Milan
+Away Team: Feyenoord Rotterdam
+Home Goals: 1
+Away Goals: 1
+Draw
+Status: FINISHED
+Match Date: 2025-02-18T17:45:00Z
+
+Home Team: Sport Lisboa e Benfica
+Away Team: AS Monaco FC
+Home Goals: 3
+Away Goals: 3
+Draw
+Status: FINISHED
+Match Date: 2025-02-18T20:00:00Z
+
+Home Team: FC Bayern München
+Away Team: Celtic FC
+Home Goals: 1
+Away Goals: 1
+Draw
+Status: FINISHED
+Match Date: 2025-02-18T20:00:00Z
+
+Home Team: Atalanta BC
+Away Team: Club Brugge KV
+Home Goals: 1
+Away Goals: 3
+Away Wins
+Status: FINISHED
+Match Date: 2025-02-18T20:00:00Z
+
+Home Team: Borussia Dortmund
+Away Team: Sporting Clube de Portugal
+Home Goals: 0
+Away Goals: 0
+Draw
+Status: FINISHED
+Match Date: 2025-02-19T17:45:00Z
+
+Home Team: Paris Saint-Germain FC
+Away Team: Stade Brestois 29
+Home Goals: 7
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2025-02-19T20:00:00Z
+
+Home Team: Real Madrid CF
+Away Team: Manchester City FC
+Home Goals: 3
+Away Goals: 1
+Home Wins
+Status: FINISHED
+Match Date: 2025-02-19T20:00:00Z
+
+Home Team: PSV
+Away Team: Juventus FC
+Home Goals: 3
+Away Goals: 1
+Home Wins
+Status: FINISHED
+Match Date: 2025-02-19T20:00:00Z
+
+Home Team: Club Brugge KV
+Away Team: Aston Villa FC
+Home Goals: 1
+Away Goals: 3
+Away Wins
+Status: FINISHED
+Match Date: 2025-03-04T17:45:00Z
+
+Home Team: Real Madrid CF
+Away Team: Club Atlético de Madrid
+Home Goals: 2
+Away Goals: 1
+Home Wins
+Status: FINISHED
+Match Date: 2025-03-04T20:00:00Z
+
+Home Team: PSV
+Away Team: Arsenal FC
+Home Goals: 1
+Away Goals: 7
+Away Wins
+Status: FINISHED
+Match Date: 2025-03-04T20:00:00Z
+
+Home Team: Borussia Dortmund
+Away Team: Lille OSC
+Home Goals: 1
+Away Goals: 1
+Draw
+Status: FINISHED
+Match Date: 2025-03-04T20:00:00Z
+
+Home Team: Feyenoord Rotterdam
+Away Team: FC Internazionale Milano
+Home Goals: 0
+Away Goals: 2
+Away Wins
+Status: FINISHED
+Match Date: 2025-03-05T17:45:00Z
+
+Home Team: Paris Saint-Germain FC
+Away Team: Liverpool FC
+Home Goals: 0
+Away Goals: 1
+Away Wins
+Status: FINISHED
+Match Date: 2025-03-05T20:00:00Z
+
+Home Team: FC Bayern München
+Away Team: Bayer 04 Leverkusen
+Home Goals: 3
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2025-03-05T20:00:00Z
+
+Home Team: Sport Lisboa e Benfica
+Away Team: FC Barcelona
+Home Goals: 0
+Away Goals: 1
+Away Wins
+Status: FINISHED
+Match Date: 2025-03-05T20:00:00Z
+
+Home Team: FC Barcelona
+Away Team: Sport Lisboa e Benfica
+Home Goals: 3
+Away Goals: 1
+Home Wins
+Status: FINISHED
+Match Date: 2025-03-11T17:45:00Z
+
+Home Team: Liverpool FC
+Away Team: Paris Saint-Germain FC
+Home Goals: 1
+Away Goals: 4
+Away Wins
+Status: FINISHED
+Match Date: 2025-03-11T20:00:00Z
+
+Home Team: FC Internazionale Milano
+Away Team: Feyenoord Rotterdam
+Home Goals: 2
+Away Goals: 1
+Home Wins
+Status: FINISHED
+Match Date: 2025-03-11T20:00:00Z
+
+Home Team: Bayer 04 Leverkusen
+Away Team: FC Bayern München
+Home Goals: 0
+Away Goals: 2
+Away Wins
+Status: FINISHED
+Match Date: 2025-03-11T20:00:00Z
+
+Home Team: Lille OSC
+Away Team: Borussia Dortmund
+Home Goals: 1
+Away Goals: 2
+Away Wins
+Status: FINISHED
+Match Date: 2025-03-12T17:45:00Z
+
+Home Team: Aston Villa FC
+Away Team: Club Brugge KV
+Home Goals: 3
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2025-03-12T20:00:00Z
+
+Home Team: Club Atlético de Madrid
+Away Team: Real Madrid CF
+Home Goals: 2
+Away Goals: 4
+Away Wins
+Status: FINISHED
+Match Date: 2025-03-12T20:00:00Z
+
+Home Team: Arsenal FC
+Away Team: PSV
+Home Goals: 2
+Away Goals: 2
+Draw
+Status: FINISHED
+Match Date: 2025-03-12T20:00:00Z
+
+Home Team: Arsenal FC
+Away Team: Real Madrid CF
+Home Goals: 3
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2025-04-08T19:00:00Z
+
+Home Team: FC Bayern München
+Away Team: FC Internazionale Milano
+Home Goals: 1
+Away Goals: 2
+Away Wins
+Status: FINISHED
+Match Date: 2025-04-08T19:00:00Z
+
+Home Team: Paris Saint-Germain FC
+Away Team: Aston Villa FC
+Home Goals: 3
+Away Goals: 1
+Home Wins
+Status: FINISHED
+Match Date: 2025-04-09T19:00:00Z
+
+Home Team: FC Barcelona
+Away Team: Borussia Dortmund
+Home Goals: 4
+Away Goals: 0
+Home Wins
+Status: FINISHED
+Match Date: 2025-04-09T19:00:00Z
+
+Home Team: Aston Villa FC
+Away Team: Paris Saint-Germain FC
+Home Goals: None
+Away Goals: None
